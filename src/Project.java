@@ -1,3 +1,9 @@
+import java.util.*
+
+class Account{
+String name;
+int money;
+}
 
 public class Project {
 
