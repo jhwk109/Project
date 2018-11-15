@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 
 class Account{
@@ -8,6 +9,14 @@ class Account{
 
 
 
+=======
+import java.util.*
+
+class Account{
+String name;
+int money;
+}
+>>>>>>> 089fc6d29a638a25c04f6021b64b1c2fd62c2433
 
 public class Project {
 
